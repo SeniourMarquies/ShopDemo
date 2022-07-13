@@ -1,1 +1,4 @@
 # ShopDemo
+* VS 2022
+* .NET FRAMEWORK
+* WINDOWS FORM
